@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Animal matching game</string>
+    <string name="animal_matching_game">Animal Matching Game</string>
 </resources>
