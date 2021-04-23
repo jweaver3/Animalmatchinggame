@@ -15,5 +15,5 @@ Download and run, in an emulator or on hardware. Its up to you!
 ## Where users can get help with your project
 Contact me at my lakeheadu email adress
 
-##Who maintains and contributes to the project
+## Who maintains and contributes to the project
 Joseph weaver 
