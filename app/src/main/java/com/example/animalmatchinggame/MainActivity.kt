@@ -13,9 +13,11 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(activity_main)
-
-        var images: MutableList<Int> = mutableListOf(camel, coala, fox, lion, monkey, wolf)
-
+        
+        
+        //array of images to be desplalyed on cards
+        var images: MutableList<Int> = mutableListOf(camel, coala, fox, lion, monkey, wolf, code)
+        //array of buttons that images are desplayed under 
         val buttons = arrayOf(button1, button2, button3, button4, button5, button6, button7, button8,button9, button10, button11, button12, button13, button14)
         val cardBack = code
         var clicked = 0
@@ -23,7 +25,8 @@ class MainActivity : AppCompatActivity() {
         var lastClicked = -1
 
         images.shuffle()
-        for(i in 0..11){
+        
+        for(i in 0..13){
             val backgroundResource = buttons[i].setBackgroundResource(cardBack)
             buttons[i].text = "cardBack"
             buttons[i].textSize = 0.0F
