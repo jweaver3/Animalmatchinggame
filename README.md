@@ -1,6 +1,6 @@
 # Animalmatchinggame
 
-# #What the project does
+##What the project does
 This project is a animal matching game simaler to ones you problely played as a kid.
 
 ## Why the project is useful
