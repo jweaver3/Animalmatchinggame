@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         
         
         //array of images to be desplalyed on cards
-        var images: MutableList<Int> = mutableListOf(camel, coala, fox, lion, monkey, wolf, code)
+        var images: MutableList<Int> = mutableListOf(camel, coala, fox, lion, monkey, wolf)
         //array of buttons that images are desplayed under 
         val buttons = arrayOf(button1, button2, button3, button4, button5, button6, button7, button8,button9, button10, button11, button12, button13, button14)
         val cardBack = code
