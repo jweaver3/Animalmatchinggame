@@ -1,5 +1,5 @@
-# Animalmatchinggame
-
+# Animal matching game
+A fun game for you to play today!
 ## What the project does
 This project is a animal matching game simaler to ones you problely played as a kid.
 
